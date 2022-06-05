@@ -38,7 +38,7 @@ import styled from '@emotion/styled'
         aria-labelledby="modal-modal-title"
         aria-describedby="modal-modal-description"
       >
-    <Box width={400} height={300} borderRadius={3} p={3} bgcolor="#fff">
+    <Box width={400} height={300} borderRadius={3} p={3} bgcolor="background.default" color="text.primary">
           <Typography variant='h6' color="gray" textAlign="center">
               Create a post
               </Typography>
