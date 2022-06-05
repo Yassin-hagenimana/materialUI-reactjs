@@ -1,4 +1,4 @@
-import { AccountBox, DarkMode, Group, Home, MobileFriendlySharp, Pages, PeopleAlt, Settings, Storefront } from '@mui/icons-material'
+import { AccountBox, DarkMode, Group, Home, Pages, PeopleAlt, Settings, Storefront } from '@mui/icons-material'
 import { Box, List, ListItem, ListItemButton, ListItemIcon, ListItemText, Switch } from '@mui/material'
 import React from 'react'
 
